@@ -14,10 +14,6 @@
 </p>
 
 <br/><div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
-</div> 
-
-<br/><div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
 </div> 
   <h3 align="center"> :open_book: Front end skills</h3><br/>
